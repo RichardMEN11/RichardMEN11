@@ -1,5 +1,4 @@
 Hello, friend 👋
-Profile Views
 
 I'm Richard, a Full-Stack Developer based in Germany. I'm a firm believer in the power of technology and startups to change the world.
 
