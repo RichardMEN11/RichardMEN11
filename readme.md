@@ -1,4 +1,4 @@
-I am just a developer - trying to find his path to hapiness. 
+I am just a developer - trying to find a path to hapiness. 
 
 --------------------------------------------------------------
 
